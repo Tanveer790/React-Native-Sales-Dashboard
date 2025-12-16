@@ -3,7 +3,7 @@
 
 here are some of the screenshots of the app
 
-![Screenshot of the dashboard](matrix-erp-dashboard/screenshots/Dashboard_Daily.png)
+![Screenshot of the dashboard](screenshots/Dashboard_Daily.png)
 
 
 
