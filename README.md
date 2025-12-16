@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +49,7 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+# React-Native-Sales-Dashboard
+A React Native project implementing MVVM architecture, offering a clean separation of concerns for maintainable and scalable development. It includes support for localization, allowing multiple languages, and a flexible theme system with dark/light modes for better UI customization. Easily extensible for future features.
+>>>>>>> 381db1cccc4ba36066e63546f05aaf2ca8980908
