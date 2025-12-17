@@ -4,8 +4,10 @@
 here are some of the screenshots of the app
 
 ![Screenshot of the dashboard](screenshots/Dashboard_Daily.png)
-![Screenshot of the dashboard](screenshots/Dashboard_Yearly.png)
+
 ![Screenshot of the dashboard](screenshots/Dashboard_Yearly_LightTheme.png)
+
+![Screenshot of the dashboard](screenshots/Dashboard_Yearly.png)
 
 
 
