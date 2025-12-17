@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# Welcome to Expo app 👋
+# Welcome to Expo app 
 
-here are some of the screenshots of the app
+Here are some of the screenshots of the app
 
 ![Screenshot of the dashboard](screenshots/Dashboard_Daily.png)
 
